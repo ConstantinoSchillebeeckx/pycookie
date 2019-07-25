@@ -1,2 +1,3 @@
 # pycookie
-pycookie
+
+Generic project setup
